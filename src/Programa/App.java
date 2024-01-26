@@ -10,9 +10,9 @@ public class App {
         Scanner sc = new Scanner(System.in);
         Conta conta;
         
-        System.out.println("Informe o numero da conta:");
+        System.out.println("Indforme o numero da conta:");
         int number = sc.nextInt();
-        System.out.println("Informe o nooome:");
+        System.out.println("Informe o nome:");
         String nome = sc.nextLine();
         nome = sc.nextLine();
         System.out.println("ha um deposito inicial?(s/n)");
