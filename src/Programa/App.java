@@ -15,7 +15,7 @@ public class App {
         System.out.println("Informe o nome:");
         String nome = sc.nextLine();
         nome = sc.nextLine();
-        System.out.println("ha um deposito inicial?(s/n)");
+        System.out.println("ha um dfeposito inicial?(s/n)");
         char sn = sc.next().charAt(0);
 
         if (sn == 's'){
